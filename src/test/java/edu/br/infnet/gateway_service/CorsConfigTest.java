@@ -1,5 +1,6 @@
-package edu.br.infnet.msgateway.config;
+package edu.br.infnet.gateway_service;
 
+import edu.br.infnet.gateway_service.config.CorsConfig;
 import org.junit.jupiter.api.Test;
 import org.springframework.web.cors.reactive.CorsWebFilter;
 

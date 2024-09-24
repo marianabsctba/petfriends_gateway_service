@@ -1,4 +1,4 @@
-package edu.br.infnet.msgateway.config;
+package edu.br.infnet.gateway_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
